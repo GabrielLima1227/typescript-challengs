@@ -1,0 +1,1 @@
+type Tuple = [id: number, name: string, ...attributes: string[]];
