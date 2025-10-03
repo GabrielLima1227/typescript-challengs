@@ -1,0 +1,1 @@
+const target: readonly [number, number] = [-39.31571, -119.95067];
